@@ -4,10 +4,6 @@
   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 -->
 
-<p align="center">
-  <img width="150" src="https://github.com/0xDRAGOS.png" alt="avatar"/>
-</p>
-
 <h1 align="center">Dragos-Ionuț Simion</h1>
 <p align="center">
   <a href="https://github.com/0xDRAGOS"><strong>0xDRAGOS on GitHub »</strong></a><br/>
@@ -25,11 +21,6 @@ Enthusiastic Computer Science student with a knack for tackling tough problems a
 ## 🛠 What I’m Working On
 - **🌀 Fractured-Seasons** – Community & support platform (Spring Boot + PostgreSQL + Elasticsearch ➡ React + Tailwind)  
   <br/>🔗 [github.com/fractured-seasons](https://github.com/fractured-seasons)
-- **🧩 Brainzzle Quiz App**  
-  – Backend: Spring Boot + PostgreSQL – Frontend: React + TailwindCSS  
-  <br/>🔗 [API](https://github.com/0xDRAGOS/brainzzle-api) • [UI](https://github.com/0xDRAGOS/brainzzle-ui)
-- **🔐 Password Generator** – Browser extension using LFSR algorithm (HTML/CSS/JS)  
-  <br/>🔗 [github.com/0xDRAGOS/Password-Generator](https://github.com/0xDRAGOS/Password-Generator)
 
 ---
 
