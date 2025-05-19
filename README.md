@@ -18,9 +18,14 @@ Enthusiastic Computer Science student with a knack for tackling tough problems a
 
 ---
 
-## 🛠 What I’m Working On
+## 🛠 Important Projects
 - **🌀 Fractured-Seasons** – Community & support platform (Spring Boot + PostgreSQL + Elasticsearch ➡ React + Tailwind)  
   <br/>🔗 [github.com/fractured-seasons](https://github.com/fractured-seasons)
+- **🧩 Brainzzle Quiz App**  
+  – Backend: Spring Boot + PostgreSQL – Frontend: React + TailwindCSS  
+  <br/>🔗 [API](https://github.com/0xDRAGOS/brainzzle-api) • [UI](https://github.com/0xDRAGOS/brainzzle-ui)
+- **🔐 Password Generator** – Browser extension using LFSR algorithm (HTML/CSS/JS)  
+  <br/>🔗 [github.com/0xDRAGOS/Password-Generator](https://github.com/0xDRAGOS/Password-Generator)
 
 ---
 
