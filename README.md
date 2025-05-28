@@ -24,6 +24,8 @@ Enthusiastic Computer Science student with a knack for tackling tough problems a
 - **🧩 Brainzzle Quiz App**  
   – Backend: Spring Boot + PostgreSQL – Frontend: React + TailwindCSS  
   <br/>🔗 [API](https://github.com/0xDRAGOS/brainzzle-api) • [UI](https://github.com/0xDRAGOS/brainzzle-ui)
+- **🧠 Exam Prep Web App** – Multiple choice exam training in React + TailwindCSS  
+  <br/>🔗 [Live Demo](https://0xDRAGOS.github.io/exam-prep) • [Source](https://github.com/0xDRAGOS/exam-prep)
 - **🔐 Password Generator** – Browser extension using LFSR algorithm (HTML/CSS/JS)  
   <br/>🔗 [github.com/0xDRAGOS/Password-Generator](https://github.com/0xDRAGOS/Password-Generator)
 
@@ -55,6 +57,7 @@ Enthusiastic Computer Science student with a knack for tackling tough problems a
 [![Fractured Seasons](https://github-readme-stats.vercel.app/api/pin?username=fractured-seasons&repo=game-backend&theme=radical)](https://github.com/fractured-seasons/game-backend)
 [![Brainzzle UI](https://github-readme-stats.vercel.app/api/pin?username=0xDRAGOS&repo=brainzzle-ui&theme=radical)](https://github.com/0xDRAGOS/brainzzle-ui)
 [![Brainzzle API](https://github-readme-stats.vercel.app/api/pin?username=0xDRAGOS&repo=brainzzle-api&theme=radical)](https://github.com/0xDRAGOS/brainzzle-api)
+[![Exam Prep](https://github-readme-stats.vercel.app/api/pin?username=0xDRAGOS&repo=exam-prep&theme=radical)](https://github.com/0xDRAGOS/exam-prep)
 [![Password-Generator](https://github-readme-stats.vercel.app/api/pin?username=0xDRAGOS&repo=Password-Generator&theme=radical)](https://github.com/0xDRAGOS/Password-Generator)
 
 ---
